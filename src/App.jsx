@@ -8,7 +8,7 @@ import JobPage from "./pages/job";
 import PostJob from "./pages/post-job";
 import SavedJobs from "./pages/saved-job";
 import MyJobs from "./pages/my-job";
-import { ThemeProvider } from "./components/ui/theme-provider";
+import { ThemeProvider } from "./components/theme-provider";
 
 const router = createBrowserRouter([
   {
